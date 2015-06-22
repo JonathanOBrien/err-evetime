@@ -1,0 +1,9 @@
+[Core]
+Name = evetime
+Module = evetime
+
+[Documentation]
+Description = An Err plugin that responds with the current time in the Eve Online Universe.
+
+[Python]
+Version = 2+
